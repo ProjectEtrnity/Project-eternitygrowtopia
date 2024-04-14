@@ -1,2 +1,2 @@
-# Project-eternity growtopia
-Project-Eternity-Growtopia
+# Project eternity growtopia
+Project Eternity Growtopia
